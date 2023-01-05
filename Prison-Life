@@ -1,6 +1,6 @@
 -- Made By Jake11price --
 -- Crash Server --
-local Gun = "AK47"
+local Gun = "AK-47"
 
 local Player = game.Players.LocalPlayer.Name
 
